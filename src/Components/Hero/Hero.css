@@ -62,7 +62,22 @@ label{
 }
 
 @media (min-width: 1023px){
-    .right_content img{
-        height: 27rem;
+    .hero{
+        width: 100%;
+    }
+}
+@media (max-width:720px){
+    .hero{
+        width: 100%;
+    }
+}
+@media (min-width: 1500px){
+    .hero{
+        width: 100%;
+    }
+}
+@media (max-width: 1022px){
+    .hero{
+        width: 100%;
     }
 }
