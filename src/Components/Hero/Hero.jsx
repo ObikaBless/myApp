@@ -1,6 +1,8 @@
 import React from 'react';
 import image from '../../assets/signIn_img.png';
-import './Hero.css'
+import './Hero.css';
+import Forgot_pass from '../Forgot_pass/Forgot_pass'
+import { Link } from "react-router-dom";
 
 const Hero = () => {
     return (
@@ -26,7 +28,11 @@ const Hero = () => {
                         </div>
                         <button className='btn3'>Login</button>
                     </div>
-                    <span className='spanText'>Forgot username or password?</span>
+                    <ul className='spanText'>
+                        <li className='spanText'>
+                            <Link className='link' to='/Forgot_pass'>Forgot username or password?</Link>
+                        </li>
+                    </ul>
                     <span className='spanText'>Don't have an account? sign In</span>
                 </div>
                 <div className='right_content'>
