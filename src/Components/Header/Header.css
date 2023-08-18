@@ -50,7 +50,7 @@
     font-size: 19px;
 }
 
-@media (max-width: 1023px){
+@media (min-width: 1023px){
     .NavBar{
         background-color: purple;
         width: 100rem;  
@@ -68,7 +68,7 @@
         width: 8rem;
     }
 }
-@media (min-width: 1024px){
+@media (min-width: 1500px){
     .NavBar{
         background-color: red;
         width: 100rem;  
