@@ -54,6 +54,13 @@
     .NavBar{
         background-color: purple;
         width: 50rem;  
+
+        display: flex;
+        gap: 5rem;
+        align-items: center;
+        box-shadow: 1px 1px 9px gray ;
+        height: 4.5rem;
+        justify-content: center; 
     }
     .buttons{
         display:flex;
