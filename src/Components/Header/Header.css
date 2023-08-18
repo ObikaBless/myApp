@@ -53,7 +53,7 @@
 @media (min-width: 1023px){
     .NavBar{
         background-color: purple;
-        width: 100rem;  
+        width: 50rem;  
     }
     .buttons{
         display:flex;
