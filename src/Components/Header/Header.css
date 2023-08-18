@@ -50,6 +50,11 @@
     font-size: 19px;
 }
 
+
+
+/* the media queries  */
+
+
 @media (min-width: 1023px){
     .NavBar{
         background-color: white;
@@ -114,7 +119,7 @@
 }
 @media (max-width:720px){
     .NavBar{
-        background-color: green;
+        background-color: white;
         width: 100%;  
 
         display: flex;
