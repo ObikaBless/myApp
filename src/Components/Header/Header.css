@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+}
+.NavBar{
+    display: flex;
+    /* justify-content: space-evenly; */
+    gap: 53rem;
+    align-items: center;
+    background-color: white;
+    box-shadow: 1px 1px 9px gray ;
+    position: fixed;
+    height: 4.5rem;
+    width: 90rem;
+    justify-content: center;   
+}
+.NavBar img{
+    height: 36px;
+    margin-left: 30px;
+}
+.buttons{
+    display:flex;
+    gap: 1rem;
+    height: 2.3rem;    
+    width: 30rem;
+}
+.Btn1{
+    background-color: #f48023;
+    color: white;
+    border: 2px solid #f48023;
+    width: 8rem;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+}
+.icon{
+    height: 4rem;
+}
+.Btn2{
+    background-color: white;
+    color: #f48023;
+    border: 1px solid #f48023;
+    width: 5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 19px;
+}
