@@ -50,7 +50,7 @@
     font-size: 19px;
 }
 
-@media (min-width: 720px){
+@media (min-width: 1200px){
     .NavBar{
         background-color: red;
         width: 100rem;  
