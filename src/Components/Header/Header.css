@@ -56,7 +56,7 @@
         width: 100%;  
 
         display: flex;
-        gap: 20rem;
+        gap: 40rem;
         align-items: center;
         box-shadow: 1px 1px 9px gray ;
         height: 4.5rem;
@@ -75,7 +75,7 @@
         width: 6rem;
     }
     .NavBar img{
-        height: 20px;
+        height: 29px;
         margin-left: 3px;
     }
 }
