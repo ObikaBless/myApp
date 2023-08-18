@@ -53,7 +53,7 @@
 @media (min-width: 1023px){
     .NavBar{
         background-color: purple;
-        width: 100%;  
+        width: auto;  
 
         display: flex;
         gap: 60%;
@@ -69,10 +69,10 @@
         width: 10rem;
     }
     .Btn1{
-        width: 8rem;
+        width: 10rem;
     }
     .Btn2{
-        width: 6rem;
+        width: 8rem;
     }
     .NavBar img{
         height: 29px;
