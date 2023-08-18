@@ -53,10 +53,10 @@
 @media (min-width: 1023px){
     .NavBar{
         background-color: purple;
-        width: 50rem;  
+        width: 100%;  
 
         display: flex;
-        gap: 5rem;
+        gap: 20rem;
         align-items: center;
         box-shadow: 1px 1px 9px gray ;
         height: 4.5rem;
@@ -69,10 +69,10 @@
         width: 10rem;
     }
     .Btn1{
-        width: 5rem;
+        width: 8rem;
     }
     .Btn2{
-        width: 3rem;
+        width: 6rem;
     }
     .NavBar img{
         height: 20px;
