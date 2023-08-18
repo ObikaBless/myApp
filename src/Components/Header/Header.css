@@ -49,3 +49,50 @@
     border-radius: 4px;
     font-size: 19px;
 }
+
+@media (min-width: 760px){
+    .NavBar{
+        background-color: red;
+        width: 100rem;  
+    }
+    .buttons{
+        display:flex;
+        gap: 1rem;
+        height: 2.3rem;    
+        width: 20rem;
+    }
+    .Btn1{
+        width: 10rem;
+    }
+    .Btn2{
+        width: 8rem;
+    }
+}
+@media (max-width: 759px){
+    .NavBar{
+        background-color: green;
+        width: 40rem;  
+        display: flex;
+        gap: 5rem;
+        align-items: center;
+        box-shadow: 1px 1px 9px gray ;
+        height: 4.5rem;
+        /* justify-content: center; */
+    }
+    .buttons{
+        display:flex;
+        gap: 1rem;
+        height: 2.3rem;    
+        width: 2rem;
+    }
+    .Btn1{
+        width: 10rem;
+    }
+    .Btn2{
+        width: 8rem;
+    }
+    .NavBar img{
+        height: 36px;
+        margin-left: 10px;
+    }
+}
