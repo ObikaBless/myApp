@@ -60,3 +60,9 @@ label{
     text-decoration: none;
     margin-left: -2.5rem;
 }
+
+@media (min-width: 1023px){
+    .right_content img{
+        height: 27rem;
+    }
+}
