@@ -1,7 +1,7 @@
 import React from 'react';
 import image from '../../assets/signIn_img.png';
 import './Hero.css';
-import Forgot_pass from '../Forgot_pass/Forgot_pass'
+// import Forgot_pass from '../Forgot_pass/Forgot_pass'
 import { Link } from "react-router-dom";
 
 const Hero = () => {

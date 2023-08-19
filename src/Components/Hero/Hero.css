@@ -60,3 +60,12 @@ label{
     text-decoration: none;
     margin-left: -2.5rem;
 }
+@media (max-width: 720px) {
+    body {
+      background-color: lightgreen;
+    }
+    .hero{
+        display: flex;
+        flex-direction: column-reverse ;
+    }
+  }
