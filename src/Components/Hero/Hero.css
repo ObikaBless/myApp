@@ -66,16 +66,16 @@ label{
         width: 90%;
 
         display: flex;
-        justify-content: flex-end;
+        justify-content: center;
         gap: 7rem;
         height: 40px;
     }
     .right_content img{
-        margin-top: 2rem;
+        margin-top: 4rem;
         height: 29rem;
     }
     .left_content{
-        margin-top: 5rem;
+        margin-top: 6rem;
     }
 }
 @media (max-width:720px){
