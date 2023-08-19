@@ -71,10 +71,11 @@ label{
         height: 40px;
     }
     .right_content img{
-        height: 30rem;
+        margin-top: 2rem;
+        height: 60%;
     }
     .left_content{
-        /* margin-top: 6rem; */
+        margin-top: 3rem;
     }
 }
 @media (max-width:720px){
