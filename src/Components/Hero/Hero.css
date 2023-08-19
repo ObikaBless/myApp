@@ -64,9 +64,17 @@ label{
 @media (min-width: 1023px){
     .hero{
         width: 90%;
+
+        display: flex;
+        justify-content: flex-end;
+        gap: 7rem;
+        height: 40px;
     }
     .right_content img{
-        height: 27rem;
+        height: 30rem;
+    }
+    .left_content{
+        /* margin-top: 6rem; */
     }
 }
 @media (max-width:720px){
