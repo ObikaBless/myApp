@@ -68,7 +68,7 @@ label{
         display: flex;
         justify-content: flex-end;
         gap: 7rem;
-        margin-left: 10rem;
+        margin-left: 7rem;
         height: 40px;
     }
     .right_content img{
