@@ -61,17 +61,6 @@ label{
     margin-left: -2.5rem;
 }
 
-@media (max-width: 720px) {
-    body {
-      background-color: lightgreen;
-    }
-    .hero{
-        display: flex;
-        flex-direction: column-reverse ;
-    }
-  }
-
-
 @media (min-width: 1023px){
     .hero{
         width: 90%;
@@ -179,6 +168,5 @@ label{
     }
     .spanText{
         font-size: 16px;
-        color: black;
     }
 }
