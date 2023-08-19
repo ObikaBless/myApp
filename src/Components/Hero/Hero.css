@@ -63,7 +63,10 @@ label{
 
 @media (min-width: 1023px){
     .hero{
-        width: 70%;
+        width: 90%;
+    }
+    .right_content img{
+        height: 27rem;
     }
 }
 @media (max-width:720px){
