@@ -82,14 +82,14 @@ label{
         font-family: Arial, Helvetica, sans-serif;
         font-weight: 600;
         font-size: 30px;
-        margin-bottom: 1.8rem;
+        margin-bottom: 1.3rem;
         /* margin-top: 3rem; */
     }
     p{
         font-family: Arial, Helvetica, sans-serif;
         font-weight: lighter;
         font-size: 20px;
-        margin-bottom: 1rem;
+        margin-bottom: 0.5rem;
     }
 }
 @media (max-width:720px){
