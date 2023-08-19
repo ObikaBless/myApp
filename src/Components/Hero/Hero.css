@@ -125,6 +125,9 @@ label{
         font-style: normal;
         margin-bottom: 1rem;
     }
+    .mainSpan{
+        margin-bottom: 22px;
+    }
 }
 @media (min-width: 1500px){
     .hero{
