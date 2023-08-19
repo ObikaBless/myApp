@@ -72,10 +72,10 @@ label{
     }
     .right_content img{
         margin-top: 2rem;
-        height: 60%;
+        height: 100%;
     }
     .left_content{
-        margin-top: 3rem;
+        margin-top: 5rem;
     }
 }
 @media (max-width:720px){
